@@ -26,6 +26,8 @@ project.addAssets("/Users/dg/Blender/ArmorySDK/armory/Assets/hosek/hosek_radianc
 project.addAssets("/Users/dg/Blender/ArmorySDK/armory/Assets/hosek/hosek_radiance_7.hdr", { notinlist: true });
 project.addAssets("/Users/dg/Blender/ArmorySDK/armory/Assets/smaa_area.png", { notinlist: true });
 project.addAssets("/Users/dg/Blender/ArmorySDK/armory/Assets/smaa_search.png", { notinlist: true });
+project.addAssets("textures/ConcreteStructuralDivots/ConcreteStructuralDivots_basecolor.png", { notinlist: true });
+project.addAssets("textures/ConcreteStructuralDivots/ConcreteStructuralDivots_normal.png", { notinlist: true });
 project.addDefine('arm_hosek');
 project.addDefine('arm_deferred');
 project.addDefine('arm_csm');

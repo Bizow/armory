@@ -7,7 +7,7 @@ class Main {
         iron.object.BoneAnimation.skinMaxBones = 67;
         iron.object.LightObject.cascadeCount = 4;
         iron.object.LightObject.cascadeSplitFactor = 0.800000011920929;
-        armory.system.Starter.numAssets = 20;
+        armory.system.Starter.numAssets = 22;
         armory.system.Starter.drawLoading = armory.trait.internal.LoadingScreen.render;
         armory.system.Starter.main(
             'Scene',
